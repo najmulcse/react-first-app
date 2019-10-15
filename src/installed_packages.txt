@@ -1,0 +1,2 @@
+ npm i lodash@4.17.10
+ npm i prop-types@15.6.2
